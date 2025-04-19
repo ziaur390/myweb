@@ -1,3 +1,10 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "http://yourwebsite.com"
+title = "Zia ur Rahman"  # This will replace "Your Name"
+subtitle = "MLOps Engineer | Self-taught Enthusiast | Computer Science Student"  # This will replace "Your Creative Subtitle"
+languageCode = "en-us"
+theme = "devise"
+[params]
+  subtitle = "MLOps Engineer | Self-taught Enthusiast | Computer Science Student"
+  email = " ziaurrahman.26261@gmail.com"  # Leave blank for now
+  github = "github.com/ziaur390"  # Leave blank for now
+  description = ""
